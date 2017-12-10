@@ -1,5 +1,5 @@
 {
   "DataProvider": "sqlserver",
-  "DataConnectionString": "Data Source=EnacheIonutPC\\SQLEXPRESS;Initial Catalog=PeopleInLoveWithFitness;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=bmw160695bmw",
+  "DataConnectionString": "Data Source=USER\\SQLEXPRESS;Initial Catalog=PeopleInLoveWithFitness;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=calculatoare",
   "RawDataSettings": {}
 }
