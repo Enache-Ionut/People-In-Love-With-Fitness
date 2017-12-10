@@ -50,6 +50,7 @@ TestResults/
 ######################
 # Logs and databases #
 ######################
+*.ide
 *.log
 *.sqlite
 # OS generated files #
@@ -73,4 +74,3 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
-*.ide
