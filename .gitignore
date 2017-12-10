@@ -47,7 +47,6 @@ TestResults/
 *.rar
 *.tar
 *.zip
-*.ide
 ######################
 # Logs and databases #
 ######################
@@ -74,3 +73,4 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+*.ide
